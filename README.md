@@ -47,6 +47,7 @@ Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado po
 
 ## 📚 Meus Projetos
 
+- **[Meu Portfólio](https://portfolio-andersondev-ofc.vercel.app/)**: Página pessoal onde apresento minhas habilidades, projetos e trajetória como desenvolvedor.
 - **[Finance AI](https://github.com/Anderson-Silva1/finance-ai)**: Um app de gestão financeira que uso para estudar como integrar o **Next.js**, **Prisma ORM**, **PostgreSQL** e **Clerk**. Ele tem recursos como geração de relatórios financeiros personalizados e suporte a planos gratuitos e pagos.
 - **[My Portfolio](https://github.com/Anderson-Silva1/portfolio)**: Um projeto pessoal para apresentar minhas habilidades como desenvolvedor, com foco em design responsivo e desempenho.
 - **[Projeto de Gestão de Tarefas](https://github.com/Anderson-Silva1/task-manager)**: Aplicação de gerenciamento de tarefas que utiliza **React.js** e **Node.js** no back-end.
