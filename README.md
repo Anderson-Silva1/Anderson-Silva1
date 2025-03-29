@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado por **tecnologia**. Atualmente, estou focado em aprender mais sobre **desenvolvimento front-end**, explorando novas ferramentas e tecnologias como **React**, **Next.js**, **TypeScript** e **Prisma ORM**. Tenho experiência com back-end, mas no momento, estou aprofundando meus conhecimentos no **front-end**.
+Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado por tecnologia. Atualmente, estou no 4° semestre de **Análise e Desenvolvimento de Sistemas** pela **UNESA Estácio de Sá**. Estou focado em aprender mais sobre desenvolvimento **Full Stack**, explorando novas ferramentas e tecnologias como **React**, **Next.js**, **TypeScript** e **Prisma ORM** para integrar meus projetos com banco de dados.
 
 ### 🚀 Tecnologias que uso no meu dia a dia:
 
