@@ -1,3 +1,5 @@
+![Banner](https://github.com/Anderson-Silva1/assets/blob/main/banner.jpg)
+
 # 👋 Olá, bem-vindo ao meu GitHub!
 
 ## Quem sou eu?
