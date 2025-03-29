@@ -4,6 +4,9 @@
 
 Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado por tecnologia. Atualmente, estou no 4° semestre de **Análise e Desenvolvimento de Sistemas** pela **UNESA Estácio de Sá**. Estou focado em aprender mais sobre desenvolvimento **Full Stack**, explorando novas ferramentas e tecnologias como **React**, **Next.js**, **TypeScript** e **Prisma ORM** para integrar meus projetos com banco de dados.
 
+![GitHub followers](https://img.shields.io/github/followers/Anderson-Silva1?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Anderson-Silva1?style=social)
+
 ### 🚀 Tecnologias que uso no meu dia a dia:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -24,6 +27,7 @@ Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://styled-components.com/logo.png" height="40" alt="styled-components logo"/>
 </div>
 
 ---
@@ -74,6 +78,13 @@ Me chamo **Anderson Silva** e sou um **desenvolvedor de software** apaixonado po
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anderson-Silva1&theme=radical)
+
+
+---
+
 ## 🤝 Vamos colaborar?
 
 Estou sempre aberto a novos desafios e oportunidades de aprender mais. Se você deseja colaborar comigo ou trocar ideias sobre algum projeto, sinta-se à vontade para entrar em contato.
@@ -107,3 +118,6 @@ Estou sempre aberto a novos desafios e oportunidades de aprender mais. Se você 
 ---
 
 ## Agradeço por visitar meu perfil! 🚀
+
+
+
