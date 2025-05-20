@@ -107,6 +107,7 @@ Estou sempre aberto a novos desafios e oportunidades de aprender mais. Se você 
 - **learn**: Repositórios de aprendizado, tutoriais e notas de estudo.
 - **doc**: Documentação de projetos e tecnologias.
 - **exp**: Experimentações, exemplos de código e testes.
+- **cur**: Cursos
 
 ### ✅ Projetos/Aplicações
 
