@@ -119,6 +119,11 @@ Estou sempre aberto a novos desafios e oportunidades de aprender mais. Se você 
 - **lib**: Bibliotecas próprias ou open-source desenvolvidas para reutilização.
 - **utils**: Utilitários e scripts para facilitar tarefas diárias ou automação.
 
+### ✅ Boilerplate
+
+- **Templates**: Templates de projetos prontos, como as bibliotecas que eu mais uso e o padrão de pastas que eu julgo melhor
+
+
 ---
 
 ## Agradeço por visitar meu perfil! 🚀
